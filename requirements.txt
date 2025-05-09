@@ -5,6 +5,10 @@ matplotlib
 scikit-learn
 catboost
 xgboost
+<<<<<<< HEAD
 Flask
 
 #-e .
+=======
+#-e .
+>>>>>>> 8556bbd64ec1064de265a56d281f977cd8f518c7
